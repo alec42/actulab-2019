@@ -12,7 +12,7 @@ library(googleway)
 donnees_manuel <- read.csv("data_final_glm.csv")
 
 # clé pour le API de Google Maps
-apikey <- "AIzaSyCbVJZSJnFGdXJGrXev19WWvDKdomjzclM"
+# apikey <- "REMOVED"
 
 ## La fonction "scrape" effectue une recherche Google pour les URLs correspondant au texte entré en argument
 ## 
