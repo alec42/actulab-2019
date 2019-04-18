@@ -30,7 +30,7 @@
 * [À propos du projet](#À-propos-du-projet)
   * [Approche](#Approche)
 * [Explication des étapes](#Explication)
-  * [URL](#Obtention-d-URL)
+  * [URL](#Obtention-des-URL)
   * [Compte](#Compte)
   * [Statistiques](#Statistiques)
   * [Application Shiny](#Application-Shiny)
@@ -62,7 +62,7 @@ Notre approche consiste à:
 
 Voici une explication de notre approche plus en détail
 
-### Obtention d’URL
+### Obtention des URL
 
 Afin d'obtenir les URL pour les sites des compagnies, l'API de Google Maps est utilisé pour trouver les URL des compagnies dans leur description. 
 Cette méthode est très efficace, car Google Maps est très précis, s'il retourne un résultat il est presque toujours le bon; sinon il n'en retourne pas.
