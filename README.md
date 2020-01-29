@@ -41,6 +41,8 @@
 <!-- ABOUT THE PROJECT -->
 ## À propos du projet
 
+__NOTE: L'application n'est plus fonctionnelle puisqu'il faut payer un coût mensuel pour avoir accès à l'API de Google__
+
 [La problématique](https://github.com/alec42/actulab-2019/blob/master/Documents%20de%20r%C3%A9f%C3%A9rence/Probl%C3%A9matique%20Cooperators%202019.pdf) est de construire un algorithme pour prédire si une compagnie est une coopérative.
 
 Pour ce faire:
